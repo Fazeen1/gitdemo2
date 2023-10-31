@@ -3,4 +3,5 @@ main second
 main ab
 main qw
 new line not in local
+second feature done
 first feature done
